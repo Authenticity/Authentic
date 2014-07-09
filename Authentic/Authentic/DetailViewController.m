@@ -2,16 +2,15 @@
 //  DetailViewController.m
 //  Authentic
 //
-//  Created by Joe Lu on 7/7/14.
+//  Created by Joe Lu on 7/9/14.
 //  Copyright (c) 2014 Authentic. All rights reserved.
 //
 
 #import "DetailViewController.h"
 
 @interface DetailViewController ()
-            
-@property (strong, nonatomic) UIPopoverController *masterPopoverController;
 
+@property (strong, nonatomic) UIPopoverController *masterPopoverController;
 @end
 
 @implementation DetailViewController
